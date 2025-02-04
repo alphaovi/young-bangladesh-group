@@ -1,0 +1,14 @@
+/* Custom CSS to reduce navbar height */
+.navbar-nav .nav-link {
+  padding-top: 0.25rem; /* Adjust as needed */
+  padding-bottom: 0.25rem; /* Adjust as needed */
+  font-size: 0.875rem; /* Smaller font size */
+  line-height: 1.25; /* Reduced line height */
+}
+
+.dropdown-menu .dropdown-item {
+  padding-top: 0.25rem; /* Adjust as needed */
+  padding-bottom: 0.25rem; /* Adjust as needed */
+  font-size: 0.875rem; /* Smaller font size */
+  line-height: 1.25; /* Reduced line height */
+}
